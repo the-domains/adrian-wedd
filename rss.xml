@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[adrian wedd]]></title>
+        <description><![CDATA[adrian wedd]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 12:25:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined93996b80-c64d-4f64-bc12-9d6113f77a6b/index.html</link>
+            <guid isPermaLink="false">93996b80-c64d-4f64-bc12-9d6113f77a6b</guid>
+            <pubDate>Thu, 03 Mar 2016 12:25:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
