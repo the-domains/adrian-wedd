@@ -1,4 +1,20 @@
-analytics: {}
+name: adrian wedd
+favicon: null
+layout_spectrum: 0.3303537303954247
+typography_spectrum: 0.49627104891184914
+title: Now Powered by Artificial Intelligence
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -8,11 +24,9 @@ color:
     - '#A2E3C4'
   brandStrength: 0.36797657544065365
   lightness: 0.4167502933436621
-  rhythmicContrast: 0.9133367838714564
   saturation: 0.32324837831243247
-cta: {}
-layout_spectrum: 0.3303537303954247
-name: adrian wedd
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.49627104891184914
+  rhythmicContrast: 0.9133367838714564
+purpose:
+  - name: null
+    item: null
+    url: null
