@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[adrian wedd]]></title>
-        <description><![CDATA[adrian wedd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Now Powered by Artificial Intelligence]]></title>
+        <description><![CDATA[Now Powered by Artificial Intelligence]]></description>
+        <link>https://thegrid.ai/adrian-wedd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 12:25:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 11:19:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adrian-wedd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adrian Wedd on Facebook]]></title>
+            <description><![CDATA[<article><h1>Adrian Wedd on Facebook</h1><p>Connect with Adrian Wedd on Facebook here</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a504da0c-a78f-4cbf-b0df-5d5d003e06de.png"></article>]]></description>
+            <link>https://thegrid.ai/adrian-wedd/e116e4e1-863d-4ab0-91bb-c82142fbc007/index.html</link>
+            <guid isPermaLink="false">e116e4e1-863d-4ab0-91bb-c82142fbc007</guid>
+            <pubDate>Sat, 05 Mar 2016 11:14:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined93996b80-c64d-4f64-bc12-9d6113f77a6b/index.html</link>
+            <description><![CDATA[<p>Yay I'm on @thegrid </p>]]></description>
+            <link>https://thegrid.ai/adrian-wedd/93996b80-c64d-4f64-bc12-9d6113f77a6b/index.html</link>
             <guid isPermaLink="false">93996b80-c64d-4f64-bc12-9d6113f77a6b</guid>
             <pubDate>Thu, 03 Mar 2016 12:25:47 GMT</pubDate>
         </item>
