@@ -1,9 +1,12 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: en
-starred: false
+author:
+  - avatar: {}
+related: []
+publisher:
+  url: 'https://plus.google.com'
+  name: Google
+  favicon: 'https://ssl.gstatic.com/images/branding/product/ico/google_plus_alldp.ico'
+  domain: plus.google.com
 keywords:
   - google
   - retention
@@ -16,11 +19,7 @@ keywords:
   - blogspot
   - input
 description: 'Adrian Wedd - adrianwedd.com - Digital and Analytics at Digital Agency - Cygnet, Tasmania'
-datePublished: '2016-03-05T11:30:49.238Z'
-dateModified: '2016-03-05T11:30:31.605Z'
-author:
-  - avatar: {}
-related: []
+inLanguage: en
 app_links:
   - path: https/plus.google.com/+AdrianWedd
     package: com.google.android.apps.plus
@@ -30,21 +29,17 @@ app_links:
     package: '447119634'
     namespace: google
     type: ios
+isBasedOnUrl: 'https://plus.google.com/+AdrianWedd'
+datePublished: '2016-03-05T12:15:17.095Z'
+dateModified: '2016-03-05T12:13:13.764Z'
 title: ''
-authors: []
-publisher:
-  name: Google
-  domain: plus.google.com
-  url: 'https://plus.google.com'
-  favicon: 'https://ssl.gstatic.com/images/branding/product/ico/google_plus_alldp.ico'
 sourcePath: _posts/2016-03-05-adrian-wedd-adrianweddcom-digital-and-analytics-at-digi.md
 published: true
-url: adrian-wedd-adrianweddcom-digital-and-analytics-at-digi/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-[Adrian Wedd on Google+][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c537dc4-56d3-4b24-b394-6873f433a69e.png)
-
-[0]: https://plus.google.com/+AdrianWedd
+![Adrian Wedd - Google&plus;](https://lh6.googleusercontent.com/-8b6AhxYBnUo/UYFKr4QOkYI/AAAAAAAABio/EiPd7r81c40/w1600-h900/default_cover_8_14d0436d687b1b22589bbc67e793e75e.jpg)
