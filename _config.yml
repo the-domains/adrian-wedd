@@ -1,6 +1,6 @@
 name: adrian wedd
 favicon: null
-layout_spectrum: 0.3303537303954247
+layout_spectrum: 0.99931
 typography_spectrum: 0.49627104891184914
 title: 'adrianwedd.com | Adrian Wedd | Now Powered by Artificial Intelligence!'
 cta:
@@ -22,10 +22,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.36797657544065365
-  lightness: 0.4167502933436621
-  saturation: 0.32324837831243247
-  rhythmicContrast: 0.9133367838714564
+  brandStrength: 0.0625
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
