@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.linkedin.com/in/adrianwedd'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - including
   - profiling
   - project
-description: 'The actions campaigner role involves selecting and profiling campaign targets, site investigation, coordinating action logistics and communications, activist training and legal liaison work. Key skills required include:'
-datePublished: '2016-03-05T12:21:30.644Z'
-dateModified: '2016-03-05T12:21:29.865Z'
+description: ''
+datePublished: '2016-03-05T12:34:11.549Z'
+dateModified: '2016-03-05T12:33:42.039Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
+url: adrian-wedd-or-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
