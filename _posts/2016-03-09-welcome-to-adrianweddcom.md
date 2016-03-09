@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-09T09:20:45.777Z'
-dateModified: '2016-03-09T09:19:35.336Z'
+datePublished: '2016-03-09T09:23:04.742Z'
+dateModified: '2016-03-09T09:22:13.660Z'
 title: Welcome to adrianwedd.com
 author: []
 sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
