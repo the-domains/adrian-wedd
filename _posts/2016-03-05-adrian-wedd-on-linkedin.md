@@ -17,20 +17,20 @@ keywords:
   - profiling
   - project
 description: ''
-datePublished: '2016-03-05T11:45:54.723Z'
-dateModified: '2016-03-05T11:45:43.583Z'
+datePublished: '2016-03-09T09:38:52.572Z'
+dateModified: '2016-03-09T09:38:51.911Z'
 author: []
 related: []
 app_links: []
 title: Adrian Wedd on LinkedIn
+sourcePath: _posts/2016-03-05-adrian-wedd-on-linkedin.md
+published: true
 authors: []
 publisher:
   name: LinkedIn
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-sourcePath: _posts/2016-03-05-adrian-wedd-on-linkedin.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
