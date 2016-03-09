@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-09T09:38:26.437Z'
-dateModified: '2016-03-09T09:38:10.842Z'
-title: Welcome to adrianwedd.com
+description: Welcome to adrianwedd.com
+datePublished: '2016-03-09T09:44:21.597Z'
+dateModified: '2016-03-09T09:43:49.269Z'
+title: Welcome
 author: []
 sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 published: true
