@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://plus.google.com/+AdrianWedd'
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +16,9 @@ keywords:
   - analytics
   - blogspot
   - input
-description: 'Adrian Wedd - adrianwedd.com - Digital and Analytics at Digital Agency - Cygnet, Tasmania'
-datePublished: '2016-03-05T12:19:43.805Z'
-dateModified: '2016-03-05T12:19:27.423Z'
+description: ''
+datePublished: '2016-03-09T09:26:16.149Z'
+dateModified: '2016-03-09T09:25:57.791Z'
 author:
   - avatar: {}
 related: []
@@ -30,7 +31,7 @@ app_links:
     package: '447119634'
     namespace: google
     type: ios
-title: ''
+title: Adrian Wedd on Google+
 sourcePath: _posts/2016-03-05-adrian-wedd-adrianweddcom-digital-and-analytics-at-digi.md
 published: true
 authors: []
@@ -39,12 +40,11 @@ publisher:
   domain: plus.google.com
   url: 'https://plus.google.com'
   favicon: 'https://ssl.gstatic.com/images/branding/product/ico/google_plus_alldp.ico'
-url: adrian-wedd-adrianweddcom-digital-and-analytics-at-digi/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
 [Adrian Wedd on Google+][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c537dc4-56d3-4b24-b394-6873f433a69e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/16a444ce56e4b1895eb2955e1b83c31177bfd674.png)
 
 [0]: https://plus.google.com/+AdrianWedd
