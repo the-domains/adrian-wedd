@@ -17,8 +17,8 @@ keywords:
   - agency
   - youtube
 description: 'The latest Tweets from Adrian Wedd (@adrianwedd). Digital advertising and analytics and all things Google for Nonprofits. Cygnet, Tasmania'
-datePublished: '2016-03-05T11:18:31.406Z'
-dateModified: '2016-03-05T11:18:21.770Z'
+datePublished: '2016-03-09T09:29:56.673Z'
+dateModified: '2016-03-05T11:46:16.016Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/1504695639/270236_10150318873374458_595289457_9552541_146201_n_400x400.jpg'
@@ -44,14 +44,14 @@ app_links:
     namespace: google
     type: android
 title: Adrian Wedd on Twitter
+sourcePath: _posts/2016-03-05-adrian-wedd-on-twitter.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'https://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-03-05-adrian-wedd-on-twitter.md
-published: true
 _type: Comment
 _context: 'http://schema.org'
 
