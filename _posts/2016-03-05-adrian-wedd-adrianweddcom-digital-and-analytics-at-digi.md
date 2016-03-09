@@ -17,8 +17,8 @@ keywords:
   - blogspot
   - input
 description: ''
-datePublished: '2016-03-09T09:28:04.062Z'
-dateModified: '2016-03-09T09:26:24.604Z'
+datePublished: '2016-03-09T09:41:37.985Z'
+dateModified: '2016-03-09T09:41:24.905Z'
 author:
   - avatar: {}
 related: []
@@ -44,7 +44,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-[Adrian Wedd on Google+][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/16a444ce56e4b1895eb2955e1b83c31177bfd674.png)
-
-[0]: https://plus.google.com/+AdrianWedd
