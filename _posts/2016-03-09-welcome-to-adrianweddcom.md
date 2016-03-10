@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Welcome to adrianwedd.com
-datePublished: '2016-03-09T11:47:26.970Z'
-dateModified: '2016-03-09T11:45:25.771Z'
+datePublished: '2016-03-10T22:39:53.174Z'
+dateModified: '2016-03-09T11:48:08.909Z'
 title: Welcome
 author: []
 sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
