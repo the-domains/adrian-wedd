@@ -1,15 +1,18 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: Welcome to adrianwedd.com
-datePublished: '2016-03-10T22:39:53.174Z'
-dateModified: '2016-03-09T11:48:08.909Z'
-title: Welcome
-author: []
+datePublished: '2016-04-18T05:46:58.141Z'
+dateModified: '2016-04-18T05:46:43.611Z'
+title: Adrian Wedd
+author:
+  - name: Adrian Wedd
+    url: 'http://adrianwedd.com'
 sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 published: true
 authors: []
@@ -18,9 +21,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome/index.html
-_type: Article
+_type: Blurb
 
 ---
-Welcome to adrianwedd.com
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd86476-c9b7-4cab-a4c5-b5db44b9450c.jpg)
+
+Welcome to adrianwedd.com
