@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://d1g1tal.agency'
-  name: Digital Agency
-  favicon: 'http://i2.wp.com/d1g1tal.agency/wp-content/uploads/2016/03/cropped-digital-agency-logo-blue-1.png?fit=192%2C192'
-  domain: d1g1tal.agency
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://d1g1tal.agency/digital-agency/'
+inLanguage: en
 keywords:
   - google
   - partnering
@@ -18,20 +16,25 @@ keywords:
   - stay
   - abn
 description: Get digital marketing advice you can trust. Partners stay up to date on the latest Google tools and products by passing Google-administered certification exams every 12 months. Proven success is what puts Partners above the rest. They use industry best practices to manage campaigns and focus on helping you get the most out of your marketing budget.
-inLanguage: en
+datePublished: '2016-04-23T05:05:09.305Z'
+dateModified: '2016-04-23T05:04:11.109Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links: []
-isBasedOnUrl: 'http://d1g1tal.agency/digital-agency/'
 title: 'Digital Agency, a Tasmanian Digital Agency. | d1g1tal.agency'
-datePublished: '2016-04-23T04:59:40.164Z'
-dateModified: '2016-04-23T04:57:43.475Z'
-starred: false
 sourcePath: _posts/2016-04-23-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Digital Agency
+  domain: d1g1tal.agency
+  url: 'http://d1g1tal.agency'
+  favicon: 'http://i2.wp.com/d1g1tal.agency/wp-content/uploads/2016/03/cropped-digital-agency-logo-blue-1.png?fit=192%2C192'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Digital Agency, a Tasmanian Digital Agency. | d1g1tal.agency</h1><p>Get digital marketing advice you can trust. Partners stay up to date on the latest Google tools and products by passing Google-administered certification exams every 12 months. Proven success is what puts Partners above the rest. They use industry best practices to manage campaigns and focus on helping you get the most out of your marketing budget.</p><img src="http://d1g1tal.agency/wp-content/uploads/2016/03/digital-agency-logo-blue-1.png" /></article>
+<article style=""><h1>Digital Agency | d1g1tal.agency</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1049c986f8e830ff60fad0035ca836bf4d376966.png" /></article>
