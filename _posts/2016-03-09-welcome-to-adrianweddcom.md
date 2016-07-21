@@ -1,24 +1,20 @@
 ---
+datePublished: '2016-07-21T21:27:54.331Z'
+sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Welcome to adrianwedd.com
-datePublished: '2016-07-21T01:07:17.256Z'
-dateModified: '2016-07-21T01:05:01.871Z'
-title: Adrian Wedd
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 via: {}
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+dateModified: '2016-07-21T21:27:53.166Z'
+title: Adrian Wedd
+publisher: {}
+description: Welcome to adrianwedd.com
+inLanguage: null
+inNav: true
 starred: true
 url: adrian-wedd/index.html
 _type: Article
