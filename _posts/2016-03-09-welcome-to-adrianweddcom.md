@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-07-21T21:27:54.331Z'
+datePublished: '2016-07-21T22:18:15.094Z'
 sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 inFeed: true
+isBasedOnUrl: 'http://adrianwedd.com'
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-21T21:27:53.166Z'
+dateModified: '2016-07-21T22:18:14.306Z'
 title: Adrian Wedd
 publisher: {}
 description: Welcome to adrianwedd.com
 inLanguage: null
-inNav: true
+inNav: false
 starred: true
-url: adrian-wedd/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Welcome to adrianwedd.com
