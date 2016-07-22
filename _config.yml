@@ -1,20 +1,4 @@
-name: adrian wedd
-favicon: null
-layout_spectrum: 0.99931
 typography_spectrum: 0.38479
-title: 'adrianwedd.com | Adrian Wedd'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-33184121-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,6 +10,26 @@ color:
   lightness: 0.375
   saturation: 0.25
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99931
+analytics:
+  google: UA-33184121-1
+  facebook: null
+  twitter: null
+author:
+  name: Adrian Wedd
+  email: adrian@adrianwedd.com
+  url: 'http://adrianwedd.com'
+name: adrian wedd
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: adrianwedd.com | Adrian Wedd
 purpose:
   - name: null
     item: null
