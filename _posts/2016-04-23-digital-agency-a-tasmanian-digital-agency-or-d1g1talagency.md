@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T00:55:11.234Z'
+datePublished: '2016-08-04T01:04:49.772Z'
 sourcePath: >-
   _posts/2016-04-23-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-04T00:55:10.215Z'
+dateModified: '2016-08-04T01:04:48.887Z'
 title: Digital Agency
 app_links: []
 publisher:
