@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:04:49.772Z'
+datePublished: '2016-08-04T01:39:01.064Z'
 sourcePath: >-
   _posts/2016-04-23-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-04T01:04:48.887Z'
+dateModified: '2016-08-04T01:39:00.371Z'
 title: Digital Agency
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
   url: 'http://d1g1tal.agency'
   favicon: >-
     http://i2.wp.com/d1g1tal.agency/wp-content/uploads/2016/03/cropped-digital-agency-logo-blue-1.png?fit=192%2C192
-description: Get digital marketing advice you can trust.
+description: "Digital Agency is a digital marketing agency specialising in delivering scalable, measurable, targeted digital marketing campaigns with Google AdWords™ and Google Analytics\x99™."
 inLanguage: en
 inNav: false
 starred: false
