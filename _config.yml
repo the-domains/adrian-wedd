@@ -32,6 +32,9 @@ navigation:
   - name: Contact
     url: 'http://adrian.wedd.co/contact-adrian-wedd/'
     type: external
+  - name: Social
+    url: 'http://adrian.wedd.co/social/'
+    type: external
 favicon: null
 title: adrianwedd.com | Adrian Wedd
 description: adrian at adrian wedd dot com
