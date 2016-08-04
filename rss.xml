@@ -4,7 +4,7 @@
         <description><![CDATA[adrianwedd.com | Adrian Wedd]]></description>
         <link>http://adrianwedd.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 01:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 01:07:06 GMT</lastBuildDate>
         <atom:link href="http://adrianwedd.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adrian Wedd]]></title>
@@ -12,6 +12,13 @@
             <link>http://adrianwedd.com</link>
             <guid isPermaLink="false">71a4cc31-2b6a-410d-89bc-7f23f5280dbc</guid>
             <pubDate>Thu, 21 Jul 2016 22:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adrian Wedd on Facebook]]></title>
+            <description><![CDATA[<article><h1>Adrian Wedd on Facebook</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ef095ae1905c20e495a66f31ce9fc518a0e4f5e.png"></article>]]></description>
+            <link>https://facebook.com/adrianwedd</link>
+            <guid isPermaLink="false">e116e4e1-863d-4ab0-91bb-c82142fbc007</guid>
+            <pubDate>Thu, 04 Aug 2016 01:07:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digital Agency]]></title>
@@ -26,13 +33,6 @@
             <link>https://youtu.be/lP5ZZI05A3g</link>
             <guid isPermaLink="false">8ee4b138-b8c3-4163-8f0b-db8cc127b228</guid>
             <pubDate>Thu, 21 Jul 2016 22:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adrian Wedd on Facebook]]></title>
-            <description><![CDATA[<article><h1>Adrian Wedd on Facebook</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ef095ae1905c20e495a66f31ce9fc518a0e4f5e.png"></article>]]></description>
-            <link>https://facebook.com/adrianwedd</link>
-            <guid isPermaLink="false">e116e4e1-863d-4ab0-91bb-c82142fbc007</guid>
-            <pubDate>Wed, 09 Mar 2016 10:13:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adrian Wedd on Google+]]></title>
