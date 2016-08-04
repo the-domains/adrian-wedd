@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Contact
+    url: 'http://adrian.wedd.co/contact-adrian-wedd/'
+    type: external
 favicon: null
 title: adrianwedd.com | Adrian Wedd
 description: adrian at adrian wedd dot com
