@@ -12,9 +12,9 @@ keywords:
   - adwords
   - agency
   - youtube
-title: Adrian Wedd (@adrianwedd) on Twitter
-datePublished: '2017-06-15T02:56:04.813Z'
-dateModified: '2017-06-15T02:56:00.532Z'
+title: Adrian Wedd on Twitter
+datePublished: '2017-06-15T02:57:33.584Z'
+dateModified: '2017-06-15T02:57:31.089Z'
 publisher: {}
 author:
   - avatar:
