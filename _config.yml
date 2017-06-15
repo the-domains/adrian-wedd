@@ -1,44 +1,53 @@
-typography_spectrum: 0.38479
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0
-  lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: Stories
-  appId: '844076975693316'
-layout_spectrum: 0.99931
+name: Adrian Wedd
+layout_spectrum: 0.09077577409334481
+typography_spectrum: 0.6880759228952229
+cta: {}
 analytics:
   google: UA-33184121-1
-  facebook: null
-  twitter: null
+opengraph:
+  type: Stories
+  appId: '844076975693316'
+color:
+  brandColors:
+    - '#FAE7CF'
+    - '#2F0000'
+    - '#73C6C9'
+    - '#CD984D'
+    - '#9562A4'
+  brandStrength: 0.8292580789420754
+  lightness: 0.6416246867738664
+  saturation: 0.5794318364933133
+  rhythmicContrast: 0.1551246428862214
+purpose:
+  - type: contact
+    label: Call
+    url: 'tel:+61407081084'
+  - type: contact
+    label: Email
+    url: 'mailto:adrian@adrianwedd.com'
+title: Adrian Wedd | adrianwedd.com
+description: adrian at adrian wedd dot com
 author:
   name: Adrian Wedd
-  email: adrian@adrianwedd.com
   url: 'http://adrianwedd.com'
-name: adrian wedd
-cta:
-  domain: null
-  bucket: null
-  version: null
+  email: adrian@adrianwedd.com
+content_rating:
+  adult: false
 navigation:
-  - name: Contact
-    url: 'http://adrian.wedd.co/contact-adrian-wedd/'
+  - name: Digital Agency
+    url: 'http://d1g1tal.agency'
     type: external
-  - name: Social
-    url: 'http://adrian.wedd.co/social/'
+  - name: Facebook
+    url: 'https://facebook.com/adrianwedd'
     type: external
-favicon: null
-title: adrianwedd.com | Adrian Wedd
-description: adrian at adrian wedd dot com
-purpose:
-  - name: null
-    item: null
-    url: null
+  - name: Google+
+    url: 'https://plus.google.com/+adrianwedd'
+    type: external
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/adrianwedd'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/adrianwedd'
+    type: external
+content: []
+github: true
