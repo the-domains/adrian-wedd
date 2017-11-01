@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T03:33:20.967Z'
+datePublished: '2017-11-01T22:35:35.524Z'
 sourcePath: >-
   _posts/2016-04-23-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 inFeed: true
@@ -18,23 +18,21 @@ keywords:
   - stay
   - abn
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-04T03:33:19.950Z'
+dateModified: '2017-11-01T22:35:34.097Z'
 title: Digital Agency | d1g1tal.agency
 app_links: []
 publisher:
   name: Digital Agency
   domain: d1g1tal.agency
-  url: 'http://d1g1tal.agency/digital-agency/'
+  url: 'http://d1g1tal.agency/'
   favicon: >-
     http://i2.wp.com/d1g1tal.agency/wp-content/uploads/2016/03/cropped-digital-agency-logo-blue-1.png?fit=192%2C192
 description: "Digital Agency is a digital marketing agency specialising in delivering scalable, measurable, targeted digital marketing campaigns with Google AdWords™ and Google Analytics\x99™. Digital Agency is a Google Partner."
 inLanguage: en
-inNav: false
 starred: false
+datePublishedOriginal: '2016-11-24T00:11:39.909Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
