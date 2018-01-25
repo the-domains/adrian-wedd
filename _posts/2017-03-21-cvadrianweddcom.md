@@ -2,20 +2,13 @@
 isBasedOnUrl: 'http://cv.adrianwedd.com'
 keywords: []
 title: cv.adrianwedd.com
-datePublished: '2018-01-25T03:36:38.918Z'
-dateModified: '2018-01-25T03:36:36.220Z'
-publisher:
-  name: cv.adrianwedd.com
-  domain: cv.adrianwedd.com
-  url: 'http://cv.adrianwedd.com'
-  favicon: 'http://www.google.com/images/icons/product/sites-16.ico'
+datePublished: '2018-01-25T03:38:38.768Z'
+dateModified: '2018-01-25T03:38:35.516Z'
+publisher: {}
 author: []
 inFeed: true
 description: ''
-via:
-  name: Google Docs
-  url: >-
-    https://drive.google.com/open?id=1YjGhfrAwokHCruvQ42Mf_T6oMsE5y78Vj-QiOBIO-DA
+via: {}
 starred: false
 datePublishedOriginal: '2017-03-21T09:39:53.484Z'
 sourcePath: _posts/2017-03-21-cvadrianweddcom.md
