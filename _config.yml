@@ -1,23 +1,23 @@
+layout_spectrum: 0.09342826768848123
+typography_spectrum: 0.13411531336531782
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.9189189058497069
+  lightness: 0.721802525911849
+  saturation: 0.6086250071169458
+  rhythmicContrast: 0.529673520387842
 name: Adrian Wedd
-layout_spectrum: 0.09077577409334481
-typography_spectrum: 0.6880759228952229
 cta: {}
 analytics:
   google: UA-33184121-1
 opengraph:
   type: Stories
   appId: '844076975693316'
-color:
-  brandColors:
-    - '#FAE7CF'
-    - '#2F0000'
-    - '#73C6C9'
-    - '#CD984D'
-    - '#9562A4'
-  brandStrength: 0.8292580789420754
-  lightness: 0.6416246867738664
-  saturation: 0.5794318364933133
-  rhythmicContrast: 0.1551246428862214
 purpose:
   - type: contact
     label: Call
