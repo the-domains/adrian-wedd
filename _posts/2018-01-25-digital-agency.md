@@ -7,8 +7,8 @@ description: 'http://d1g1tal.agency/'
 app_links: []
 isBasedOnUrl: 'http://d1g1tal.agency/'
 title: Digital Agency
-datePublished: '2018-01-25T04:20:42.730Z'
-dateModified: '2018-01-25T04:20:41.354Z'
+datePublished: '2018-01-25T04:21:33.041Z'
+dateModified: '2018-01-25T04:21:31.062Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-01-25-digital-agency.md
