@@ -2,8 +2,8 @@
 isBasedOnUrl: 'http://cv.adrianwedd.com'
 keywords: []
 title: cv.adrianwedd.com
-datePublished: '2018-01-25T04:21:33.040Z'
-dateModified: '2018-01-25T04:21:31.062Z'
+datePublished: '2018-01-25T04:21:40.985Z'
+dateModified: '2018-01-25T04:21:38.785Z'
 publisher: {}
 author: []
 inFeed: true
