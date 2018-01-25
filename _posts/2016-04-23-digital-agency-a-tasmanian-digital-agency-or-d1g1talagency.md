@@ -13,8 +13,8 @@ keywords:
   - stay
   - abn
 title: Digital Agency | d1g1tal.agency
-datePublished: '2018-01-25T03:55:06.836Z'
-dateModified: '2018-01-25T03:55:02.116Z'
+datePublished: '2018-01-25T04:00:05.899Z'
+dateModified: '2018-01-25T03:59:46.110Z'
 publisher: {}
 author: []
 inFeed: true
@@ -22,7 +22,7 @@ hasPage: false
 description: >-
   Digital Agency is a Tasmanian digital marketing agency specialising in
   delivering scalable, measurable, targeted digital marketing campaigns with
-  Google AdWords™ and Google Analytics™. 
+  Google AdWords™ and Google Analytics™.
 via: {}
 starred: false
 datePublishedOriginal: '2018-01-25T03:33:11.210Z'
@@ -34,7 +34,11 @@ _context: 'http://schema.org'
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06192f63-d9b2-48cb-a170-81dfa8a368e6.png)
 
-Digital Agency is a Tasmanian digital marketing agency specialising in delivering scalable, measurable, targeted digital marketing campaigns with [Google AdWords][0](tm) and [Google Analytics][1](tm). ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/025c105736e1186109c1c41f61a1100e726d6b9b.jpg)
+Digital Agency is a Tasmanian digital marketing agency specialising in delivering scalable, measurable, targeted digital marketing campaigns with [Google AdWords][0](tm) and [Google Analytics][1](tm).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6844328e-ec95-4f0d-a8c5-a3030dc429ec.jpg)
+
+Digital Agency is a [Google Partner][2].
 
 [0]: https://www.google.com.au/adwords/
 [1]: http://google.com/analytics
+[2]: https://www.google.com/partners/#a_profile;idtf=3184384698;locn=Tasmania,%20Australia;qury=Digital%20Agency
