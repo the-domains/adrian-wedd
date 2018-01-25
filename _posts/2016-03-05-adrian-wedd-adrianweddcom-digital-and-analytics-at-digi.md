@@ -1,10 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://plus.google.com/+AdrianWedd'
 inLanguage: en
-starred: false
 keywords:
   - google
   - retention
@@ -17,10 +15,11 @@ keywords:
   - blogspot
   - input
 description: ''
-datePublished: '2016-03-09T09:42:02.078Z'
-dateModified: '2016-03-09T09:41:47.816Z'
+datePublished: '2018-01-25T03:13:19.578Z'
+dateModified: '2018-01-25T03:13:17.571Z'
 author:
-  - avatar: {}
+  - name: ''
+    url: ''
 related: []
 app_links:
   - path: https/plus.google.com/+AdrianWedd
@@ -33,13 +32,15 @@ app_links:
     type: ios
 title: Adrian Wedd on Google+
 sourcePath: _posts/2016-03-05-adrian-wedd-adrianweddcom-digital-and-analytics-at-digi.md
-published: true
 authors: []
 publisher:
-  name: Google
-  domain: plus.google.com
-  url: 'https://plus.google.com'
-  favicon: 'https://ssl.gstatic.com/images/branding/product/ico/google_plus_alldp.ico'
+  name: Google+
+  domain: null
+  url: 'https://plus.google.com/+AdrianWedd'
+  favicon: null
+via: {}
+starred: false
+datePublishedOriginal: '2016-11-24T00:11:41.872Z'
 _type: Photograph
 _context: 'http://schema.org'
 
