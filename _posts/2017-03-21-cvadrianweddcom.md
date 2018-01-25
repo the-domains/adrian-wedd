@@ -2,16 +2,16 @@
 isBasedOnUrl: 'http://cv.adrianwedd.com'
 keywords: []
 title: cv.adrianwedd.com
-datePublished: '2018-01-25T03:38:38.768Z'
-dateModified: '2018-01-25T03:38:35.516Z'
+datePublished: '2018-01-25T03:40:16.059Z'
+dateModified: '2018-01-25T03:40:15.097Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
+sourcePath: _posts/2017-03-21-cvadrianweddcom.md
 starred: false
 datePublishedOriginal: '2017-03-21T09:39:53.484Z'
-sourcePath: _posts/2017-03-21-cvadrianweddcom.md
 _type: MediaObject
 _context: 'http://schema.org'
 
