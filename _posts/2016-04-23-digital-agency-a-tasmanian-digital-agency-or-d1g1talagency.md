@@ -13,8 +13,8 @@ keywords:
   - stay
   - abn
 title: Digital Agency | d1g1tal.agency
-datePublished: '2018-01-25T03:49:22.137Z'
-dateModified: '2018-01-25T03:49:16.795Z'
+datePublished: '2018-01-25T03:52:45.112Z'
+dateModified: '2018-01-25T03:52:32.927Z'
 publisher: {}
 author: []
 inFeed: true
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06192f63-d9b2-48cb-a170-81dfa8a368e6.png)
 
 Digital Agency is a digital marketing agency specialising in delivering scalable, measurable, targeted digital marketing campaigns with [Google AdWords][0](tm) and [Google Analytics][1](tm). Digital Agency is a [Google Partner][2].
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3cc8605878053748cc5fad5f02c4f9ca/croprotate.jpg?cropheight=238&cropwidth=615&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2ebf6c5e-4017-4046-8177-894b0e1468b6.jpg&x=9&y=0)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/94b4117ef18a59ed049b9f9715f34180/croprotate.jpg?cropheight=213&cropwidth=615&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff9a7cab582c4d3da4a5e3c34105dfe4709f8374b.jpg&x=0&y=11)
 
 [0]: https://www.google.com.au/adwords/
 [1]: http://google.com/analytics
