@@ -7,8 +7,8 @@ description: 'http://d1g1tal.agency/'
 app_links: []
 isBasedOnUrl: 'http://d1g1tal.agency/'
 title: Digital Agency
-datePublished: '2018-01-25T04:19:40.252Z'
-dateModified: '2018-01-25T04:19:39.239Z'
+datePublished: '2018-01-25T04:20:42.730Z'
+dateModified: '2018-01-25T04:20:41.354Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-01-25-digital-agency.md
@@ -18,4 +18,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/05b9e990bf3debc094fa66d9b71d5289/noop.jpg?input=https%3A%2F%2Fstorage.googleapis.com%2Ftwg-content%2Fimages%2FTwG_AU_Header_YTStat_FvGTFxD.width-1200.jpg" /><h1>Digital Agency</h1><p>http://d1g1tal.agency/</p></article>
+<article style=""><h1>Digital Agency</h1><p>http://d1g1tal.agency/</p></article>
