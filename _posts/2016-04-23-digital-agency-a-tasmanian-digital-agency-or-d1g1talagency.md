@@ -13,8 +13,8 @@ keywords:
   - stay
   - abn
 title: Digital Agency | d1g1tal.agency
-datePublished: '2018-01-25T04:00:46.570Z'
-dateModified: '2018-01-25T04:00:43.588Z'
+datePublished: '2018-01-25T04:04:21.448Z'
+dateModified: '2018-01-25T04:04:19.216Z'
 publisher: {}
 author: []
 inFeed: true
@@ -35,9 +35,9 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06192f63-d9b2-48cb-a170-81dfa8a368e6.png)
 
 Digital Agency is a Tasmanian digital marketing agency specialising in delivering scalable, measurable, targeted digital marketing campaigns with [Google AdWords][0](tm) and [Google Analytics][1](tm).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6844328e-ec95-4f0d-a8c5-a3030dc429ec.jpg)
 
 Digital Agency is a [Google Partner][2].
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5f929b991b03e6990d943d3a3273675a/croprotate.jpg?cropheight=238&cropwidth=615&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa3a6537c-884c-4690-a8fc-3b15a1d35748.jpg&x=9&y=0)
 
 ---
 
