@@ -13,14 +13,9 @@ keywords:
   - stay
   - abn
 title: Digital Agency | d1g1tal.agency
-datePublished: '2018-01-25T03:33:11.210Z'
-dateModified: '2018-01-25T03:33:09.688Z'
-publisher:
-  name: Digital Agency
-  domain: d1g1tal.agency
-  url: 'http://d1g1tal.agency/'
-  favicon: >-
-    http://i2.wp.com/d1g1tal.agency/wp-content/uploads/2016/03/cropped-digital-agency-logo-blue-1.png?fit=192%2C192
+datePublished: '2018-01-25T03:39:38.349Z'
+dateModified: '2018-01-25T03:39:32.894Z'
+publisher: {}
 author: []
 inFeed: true
 hasPage: false
@@ -29,10 +24,10 @@ description: >-
   scalable, measurable, targeted digital marketing campaigns with Google
   AdWords™ and Google Analytics™. Digital Agency is a Google Partner.
 via: {}
-sourcePath: >-
-  _posts/2016-04-23-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 starred: false
 datePublishedOriginal: '2018-01-25T03:33:11.210Z'
+sourcePath: >-
+  _posts/2016-04-23-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 _type: MediaObject
 _context: 'http://schema.org'
 
