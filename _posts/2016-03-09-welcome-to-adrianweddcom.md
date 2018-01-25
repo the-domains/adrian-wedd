@@ -2,8 +2,8 @@
 isBasedOnUrl: 'http://adrianwedd.com'
 keywords: []
 title: Adrian Wedd
-datePublished: '2017-06-15T02:56:39.671Z'
-dateModified: '2017-06-15T02:56:36.525Z'
+datePublished: '2018-01-25T03:13:19.572Z'
+dateModified: '2018-01-25T03:13:17.571Z'
 publisher: {}
 author:
   - name: ''
@@ -12,9 +12,9 @@ inFeed: true
 hasPage: false
 description: ''
 via: {}
+sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 starred: true
 datePublishedOriginal: '2016-11-24T00:11:39.261Z'
-sourcePath: _posts/2016-03-09-welcome-to-adrianweddcom.md
 _type: MediaObject
 
 ---
