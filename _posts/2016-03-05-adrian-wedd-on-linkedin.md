@@ -1,10 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.linkedin.com/in/adrianwedd'
 inLanguage: en
-starred: false
 keywords:
   - campaigners
   - managed
@@ -17,20 +15,20 @@ keywords:
   - profiling
   - project
 description: ''
-datePublished: '2016-03-09T09:38:52.572Z'
-dateModified: '2016-03-09T09:38:51.911Z'
-author: []
+datePublished: '2018-01-25T03:13:19.572Z'
+dateModified: '2018-01-25T03:13:17.571Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Adrian Wedd on LinkedIn
 sourcePath: _posts/2016-03-05-adrian-wedd-on-linkedin.md
-published: true
 authors: []
-publisher:
-  name: LinkedIn
-  domain: www.linkedin.com
-  url: 'http://linkedin.com'
-  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2016-11-24T00:11:38.646Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
