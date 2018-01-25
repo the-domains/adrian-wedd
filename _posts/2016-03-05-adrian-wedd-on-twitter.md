@@ -13,8 +13,8 @@ keywords:
   - agency
   - youtube
 title: Adrian Wedd on Twitter
-datePublished: '2017-06-15T02:57:33.584Z'
-dateModified: '2017-06-15T02:57:31.089Z'
+datePublished: '2018-01-25T03:13:19.513Z'
+dateModified: '2018-01-25T03:13:17.571Z'
 publisher: {}
 author:
   - avatar:
@@ -39,9 +39,9 @@ inFeed: true
 hasPage: false
 description: ''
 via: {}
+sourcePath: _posts/2016-03-05-adrian-wedd-on-twitter.md
 starred: false
 datePublishedOriginal: '2016-11-24T00:11:42.498Z'
-sourcePath: _posts/2016-03-05-adrian-wedd-on-twitter.md
 _type: Comment
 _context: 'http://schema.org'
 
