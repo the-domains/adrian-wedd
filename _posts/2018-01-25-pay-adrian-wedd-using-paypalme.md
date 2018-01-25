@@ -1,9 +1,9 @@
 ---
 isBasedOnUrl: 'https://www.paypal.me/AdrianWedd'
 keywords: []
-title: Pay me using PayPal
-datePublished: '2018-01-25T03:19:31.312Z'
-dateModified: '2018-01-25T03:19:17.280Z'
+title: Pay Adrian Wedd using PayPal
+datePublished: '2018-01-25T03:20:41.061Z'
+dateModified: '2018-01-25T03:20:38.988Z'
 publisher:
   name: PayPal.Me
   domain: www.paypal.me
@@ -20,4 +20,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/698b44786a406fbde85b48747c3270a5f3db23dc.png" /><h1>Pay me using PayPal</h1><p>Go to paypal.me/AdrianWedd and type in the amount. </p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/698b44786a406fbde85b48747c3270a5f3db23dc.png" /><h1>Pay Adrian Wedd using PayPal</h1><p>Go to paypal.me/AdrianWedd and type in the amount. </p></article>
